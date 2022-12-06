@@ -1,0 +1,29 @@
+.text-center{
+    text-align: center;
+
+}
+.button{
+    margin:0 3px;
+padding:20px;
+border:2px solid black;
+border-radius:3px;
+cursor:pointer;
+width:64px;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    margin:10px 0 ;
+
+}
+.input{
+    padding:12px 30px;
+    font-size: 17px;
+}
+.body{
+background-color: rgba(163, 202, 254, 0.592);
+}
